@@ -10,3 +10,5 @@ Break down by event type
 - what regions have improvement/worsening of restoration time
 - what types of outage are on the rise, need solutions
 
+## Data Cleaning
+- ####### Start here to plan data cleaning when resuming this project######
